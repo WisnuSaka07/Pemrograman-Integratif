@@ -10,7 +10,7 @@ Membuat Implementasi gRPC API dan Protobuf
 ### 1. Init Project
 
 1. Buat direktori gRPC terlebih dahulu
-    ![Alt teks]https://github.com/WisnuSaka07/Pemrograman-Integratif/blob/main/gRPC/img/direktori.png
+    ![Alt teks](https://github.com/WisnuSaka07/Pemrograman-Integratif/blob/main/gRPC/img/direktori.png)
 
 2. Install nodeJS ( Sesuaikan bahasa yang kalian gunakan )
 
