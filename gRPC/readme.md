@@ -1,5 +1,5 @@
 
-# Implementation dari gRPC API and Protobuf menggunakan Node JS
+# Implementasi dari gRPC API and Protobuf menggunakan Node JS
 
 ## Tujuan
 
